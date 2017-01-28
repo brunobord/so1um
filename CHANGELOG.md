@@ -1,5 +1,11 @@
 # So1um Changelog
 
+## v0.4.5
+
+* Stats equal to the number of even dice with 3d6. If none, stat score is 1.
+* Hit Points are the number of even dice with 2d6 + Body score.
+* Characters start with 1 cliché, and can add up to 2 of them.
+
 ## v0.4
 
 * Hit Points are the number of even dice with 3d6 + Body score.
