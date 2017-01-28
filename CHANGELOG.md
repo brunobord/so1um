@@ -1,5 +1,11 @@
 # So1um Changelog
 
+## v0.4
+
+* Hit Points are the number of even dice with 3d6 + Body score.
+* Monsters use Body equals Hit Points.
+* Characters start with 1 cliché, and can add up to 3 of them.
+
 ## v0.3
 
 * *Will* has been renamed *Soul*.
