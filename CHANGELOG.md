@@ -1,5 +1,10 @@
 # So1um Changelog
 
+## v0.5
+
+* Added "Gear & Loot" section.
+* Monsters don't use their Body score anymore for HP.
+
 ## v0.4.5
 
 * Stats equal to the number of even dice with 3d6. If none, stat score is 1.
