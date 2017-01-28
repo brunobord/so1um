@@ -1,5 +1,10 @@
 # So1um Changelog
 
+## v0.3
+
+* *Will* has been renamed *Soul*.
+* Hit Points equal the sum of all Stat scores.
+
 ## v0.2
 
 * Characters start with 1 cliché, and can add up to 2 of them.

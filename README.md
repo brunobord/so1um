@@ -10,6 +10,7 @@ It's published under the terms of [the CC-BY 4.0 License](https://creativecommon
 
 * [So1um v0.1](so1um-01.md)
 * [So1um v0.2](so1um-02.md)
+* [So1um v0.3.6](so1um-03.md)
 * [So1um (latest)](so1um.md)
 
 You can also [download the PDFs](pdfs/index.md).
