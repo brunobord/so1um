@@ -1,5 +1,11 @@
 # So1um Changelog
 
+## v0.6
+
+* *Soul* becomes *Spirit*.
+* Rewording of the combat section.
+* A couple of extra entries in the bestiary.
+
 ## v0.5
 
 * Added "Gear & Loot" section.

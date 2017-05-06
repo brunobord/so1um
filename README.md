@@ -14,6 +14,7 @@ It's published under the terms of [the CC-BY 4.0 License](https://creativecommon
 * [So1um v0.4](so1um-04.md)
 * [So1um v0.4.5](so1um-045.md)
 * [So1um v0.5](so1um-05.md)
+* [So1um v0.6](so1um-06.md)
 * [So1um (latest)](so1um.md)
 
 You can also [download the PDFs](pdfs/index.md).
