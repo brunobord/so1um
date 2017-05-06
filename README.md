@@ -19,7 +19,10 @@ It's published under the terms of [the CC-BY 4.0 License](https://creativecommon
 
 You can also [download the PDFs](pdfs/index.md).
 
-En français: [So1um v0.5](so1um-05.fr.md).
+En français:
+
+* [So1um v0.5](so1um-05.fr.md).
+* [So1um v0.6](so1um-06.fr.md).
 
 ## Changelog
 
