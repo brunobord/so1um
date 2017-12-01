@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i');
+body {
+    font-family: 'Arvo', serif !important;
+    font-size: 1em !important;
+    color: black !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+}
